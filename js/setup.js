@@ -1,7 +1,6 @@
 'use strict';
 
 var userDialog = document.querySelector('.setup');
-
 var WIZARDS_COUNT = 4;
 var WIZARDS_NAMES_LIST = [
   'Иван',
